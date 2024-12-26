@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunil32773" alt="sunil32773" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sunil_kudipudi" target="blank"><img src="https://img.shields.io/twitter/follow/sunil_kudipudi?logo=twitter&style=for-the-badge" alt="sunil_kudipudi" /></a> </p>
+
 
 - 🔭 I’m currently working on [crown clothing](https://transcendent-cendol-a3c008.netlify.app/)
 
